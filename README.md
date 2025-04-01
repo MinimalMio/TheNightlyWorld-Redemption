@@ -4,6 +4,24 @@
 
 The Nightly World Mod's sequel to the Minecraft 1.21.4.
 
+---
+
+## How to build
+
+Build Environment: Java 21
+
+First, generate the data:  
+```bash
+./gradlew runDatagen
+```
+
+And build it:
+```bash
+./gradlew build
+```
+
+---
+
 > All they wanted was to fly up through the sky
 > 
 > But they're damned from the moment 
