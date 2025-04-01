@@ -15,6 +15,9 @@
 	"icon": "assets/nightly/icon.png",
 	"environment": "*",
 	"entrypoints": {
+		"fabric-datagen": [
+			"moe.ksakura.TheNightlyWorldRedemptionDataGenerator"
+		],
 		"main": [
 			"moe.ksakura.TheNightlyWorldRedemption"
 		],
